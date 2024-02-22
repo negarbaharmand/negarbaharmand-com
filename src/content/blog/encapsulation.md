@@ -15,6 +15,7 @@ description:
   modification.
 ---
 
+![](/src/assets/images/capsule.jpg)
 Let's talk about a super useful concept in Java programming: encapsulation. It might sound fancy, but it's like giving your code a protective capsule, just like the one around medicine.
 Imagine you have a special capsule that holds a secret gem. You don't want anyone touching or changing the gem, right? In Java, you can achieve this protection using something called getters and setters. Think of getters as a way to "get" information, and setters as a way to "set" or change it. This way, you control how your gem is accessed and modified.
 
