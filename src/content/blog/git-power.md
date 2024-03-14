@@ -8,11 +8,7 @@ draft: false
 tags:
   - thoughts
   - git
-description:
-  "Git is like a magic wand for developers, offering local freedom and smart
-  sync. Quick tip: tweak your last commit with 'git commit --amend -m'. Try 'git
-  stash' for temporarily shelving changes – perfect for spontaneous context
-  switches."
+description: Git is like a magic wand for developers, offering local freedom and smart.
 ---
 
 ![](/src/assets/images/git-unsplash.jpg)

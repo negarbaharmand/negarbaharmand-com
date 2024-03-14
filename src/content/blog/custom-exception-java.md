@@ -1,7 +1,7 @@
 ---
 author: Negar Baharmand
 pubDatetime: 2023-08-16T22:00:00.000Z
-title: The Power of Custom Exceptions in Java
+title: Custom Exceptions in Java
 slug: custon-exception
 featured: true
 draft: false
@@ -15,7 +15,7 @@ description:
   maintainability.
 ---
 
-Today, I want to dive into a topic that's been on my mind as I've been learning the ropes of Java programming 'custom exceptions'. I believe exceptions in Java are like safety nets that catch errors and help our programs run smoothly. The exciting part is that you can create your very own custom exceptions, tailored to your specific needs.
+Today, I want to talk about a topic that's been on my mind as I've been learning the ropes of Java programming 'custom exceptions'. I believe exceptions in Java are like safety nets that catch errors and help our programs run smoothly. The exciting part is that you can create your very own custom exceptions, tailored to your specific needs.
 
 ## What are custom exceptions, and why do I need them?
 

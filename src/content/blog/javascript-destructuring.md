@@ -1,7 +1,7 @@
 ---
 author: Negar Baharmand
 pubDatetime: 2023-12-25T23:00:00.000Z
-title: "TIL JavaScript Destructuring: Unpacking the Power of Objects and Arrays"
+title: "TIL JavaScript Destructuring: The Power of Objects and Arrays"
 slug: js-destructuring
 featured: true
 draft: false
@@ -9,13 +9,12 @@ tags:
   - array
   - ilt
   - javascript
-description:
-  Unlock the potential of JavaScript destructuring, a concise and powerful
+description: The potential of JavaScript destructuring, a concise and powerful
   technique simplifying the extraction of values from objects and arrays,
   improving code readability and reducing redundancy.
 ---
 
-Today, let's delve into the concept of JavaScript destructuring, a powerful tool that simplifies the process of extracting values from objects and arrays.
+Today, let's talk about the concept of JavaScript destructuring, a powerful tool that simplifies the process of extracting values from objects and arrays.
 Objects in JavaScript often contain multiple key-value pairs, and traditionally, extracting values required verbose syntax. Enter destructuring, a concise way to access and assign these values. Consider the following example:
 
 ```javascript

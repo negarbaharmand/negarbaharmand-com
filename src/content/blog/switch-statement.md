@@ -16,7 +16,7 @@ description:
 
 # Understanding the JavaScript Switch Statement
 
-In the realm of JavaScript, the `switch` statement proves to be a versatile tool for executing different actions based on varying conditions. This control flow statement assesses a given expression against a set of cases, triggering the execution of the corresponding block of code associated with the matched case. Widely adopted as an alternative to a series of `if-else` statements, the switch statement shines when dealing with multiple conditions that need evaluation against a single expression.
+In JavaScript, the `switch` statement proves to be a versatile tool for executing different actions based on varying conditions. This control flow statement assesses a given expression against a set of cases, triggering the execution of the corresponding block of code associated with the matched case. Widely adopted as an alternative to a series of `if-else` statements, the switch statement shines when dealing with multiple conditions that need evaluation against a single expression.
 
 Here's a classic example in JavaScript:
 
