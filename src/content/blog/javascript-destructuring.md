@@ -1,7 +1,7 @@
 ---
 author: Negar Baharmand
 pubDatetime: 2023-12-25T23:00:00.000Z
-title: "TIL JavaScript Destructuring: The Power of Objects and Arrays"
+title: "TIL JavaScript Destructuring"
 slug: js-destructuring
 featured: true
 draft: false
@@ -47,4 +47,57 @@ const arr = ["foo", "bar", "baz"];
 const a = arr[0];
 const b = arr[1];
 const c = arr[2];
+// Destructuring assignment
+const [a, b, c] = arr;
 ```
+Here, the destructuring assignment allows us to extract values from the array and assign them to variables a, b, and c in a single, concise line.
+
+## Skipping Items in Arrays
+When working with arrays, you can skip items during destructuring:
+
+```javascript
+const numbers = [1, 2, 3, 4, 5];
+
+// Skip the first two items
+const [ , , three, four, five] = numbers;
+```
+In this example, only the third, fourth, and fifth items from the numbers array are extracted, and the first two items are skipped.
+
+## Using the Spread Operator with Destructuring
+The spread operator (...) can be used in combination with destructuring to handle the remaining elements of an array or the remaining properties of an object.
+
+### Arrays
+```javascript
+const fruits = ["apple", "banana", "cherry", "date"];
+
+// Destructuring with spread operator
+const [first, second, ...rest] = fruits;
+
+console.log(first); // "apple"
+console.log(second); // "banana"
+console.log(rest); // ["cherry", "date"]
+
+```
+In this example, first and second get the first two values from the array, and rest gets the remaining elements as a new array.
+
+### Objects
+```javascript
+const user = {
+  id: 1,
+  name: "Jane Doe",
+  age: 30,
+  email: "jane.doe@example.com"
+};
+
+// Destructuring with spread operator
+const { name, age, ...otherDetails } = user;
+
+console.log(name); // "Jane Doe"
+console.log(age); // 30
+console.log(otherDetails); // { id: 1, email: "jane.doe@example.com" }
+
+```
+Here, name and age are extracted, and otherDetails captures the remaining properties in a new object.
+
+## Conclusion
+JavaScript destructuring is a versatile and powerful feature that significantly improves the readability and maintainability of your code. By simplifying the process of extracting values from objects and arrays, destructuring helps you write cleaner, more efficient code. Whether you're working with complex data structures or simply trying to reduce redundancy, destructuring is an essential tool in modern JavaScript development.
