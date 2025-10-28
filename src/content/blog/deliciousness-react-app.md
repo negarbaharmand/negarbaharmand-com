@@ -16,9 +16,9 @@ description:
   user-friendly experience.
 ---
 
-I'm very excited to talk about one of my latest projects, Deliciousness, a multipage **React app** that combines my love for coding and food recipes. As a junior-level developer, I'm constantly learning and experimenting, and this app is a testament to my journey. You can check out the app repository on my [Github](https://github.com/negarbaharmand/deliciousness.git) and try it live [here](https://negarbaharmand.github.io/deliciousness/).
+I'm very excited to talk about one of my latest projects, Deliciousness, a multipage **React app** that combines my love for coding and food recipes. As a junior-level developer, I'm constantly learning and experimenting, and this app is a testament to my journey. You can check out the app repository on my [Github](https://github.com/negarbaharmand/deliciousness.git).
 
-![](/src/assets/images/deliciousness-github.png)
+![](../../assets/images/deliciousness-github.png)
 
 Deliciousness is structured into two main packages: "component" and "pages." This design choice reflects the separation of concerns and modularity, making the app easier to manage and extend as it grows.
 
@@ -35,7 +35,7 @@ To build Deliciousness, I used a set of key dependencies that played a crucial r
 Let's take a quick look at some of the key components in the "component" package:
 **Category:** This component displays food categories like Italian, American, Thai, and Japanese, using stylish icons. It also uses React Router's NavLink for active styling.
 **Popular, Search, Veggie:** These components cater to various aspects of the app. "Popular" showcases popular food picks, "Search" lets users search for recipes, and "Veggie" displays vegetarian recipes. These components are animated with framer-motion for a visually appealing experience.
-![App Overwiew](/src/assets/images/deliciousness-page-overview.png)
+![App Overwiew](../../assets/images/deliciousness-page-overview.png)
 
 ## Routing and Navigation:
 
