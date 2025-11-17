@@ -4,7 +4,7 @@ import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "portfolio" | "tags" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -56,8 +56,11 @@ const { activeNav } = Astro.props;
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
-            <a href="/posts/" class={activeNav === "posts" ? "active" : ""}>
-              Posts
+            <a
+              href="https://negarbaharmand-personal-portfolio.netlify.app/"
+              class={activeNav === "portfolio" ? "active" : ""}
+            >
+              Portfolio
             </a>
           </li>
           <li>
@@ -65,11 +68,7 @@ const { activeNav } = Astro.props;
               Tags
             </a>
           </li>
-          <li>
-            <a href="/about/" class={activeNav === "about" ? "active" : ""}>
-              About
-            </a>
-          </li>
+
           <li>
             <LinkButton
               href="/search/"
