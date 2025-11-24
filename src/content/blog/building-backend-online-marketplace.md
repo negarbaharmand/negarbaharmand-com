@@ -40,17 +40,17 @@ Exploring the capabilities of the Marketplace API using Swagger was a revelation
 
 1. Ensure the Marketplace API is running locally.
 2. Open your web browser and navigate to the Swagger UI:
-   [Swagger Documentation](http://localhost:8080/swagger-ui/index.html)
+   [http://localhost:8080/swagger-ui/index.html]
 
    Note: Replace `http://localhost:8080` with the actual base URL of your running API.
 
 3. Dive into the available endpoints, review request/response details, and interact with the API directly from the Swagger UI.\
-   ![Swagger Documentation](/src/assets/images/swagger-marketplace.jpg)
+   ![Swagger Documentation](../../assets/images/swagger-marketplace.jpg)
 
 ### Javadoc Documentation
 
 The Javadoc documentation is like a map guiding through the classes, methods, and overall structure of the codebase.
-![Javadoc Documentation](/src/assets/images/javadoc.jpg)
+![Javadoc Documentation](../../assets/images/javadoc.jpg)
 For a deeper understanding of the project's architecture and implementation details, refer to the Javadoc documentation:
 
 - [Javadoc Documentation](https://negarbaharmand.com/marketplace-docs/index.html)
