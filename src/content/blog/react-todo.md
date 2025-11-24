@@ -23,4 +23,4 @@ The ToDo React application empowers users to:
 - Delete and edit tasks through corresponding icons
 - Mark tasks as done by toggling the checkbox
   For those eager to explore and try the ToDo-React project, the code is available on [project's github page](https://github.com/negarbaharmand/ToDo-React).
-- ![project's Github page overview](../../assets/images/todo-github.png)
+  ![project's Github page overview](../../assets/images/todo-github.png)
