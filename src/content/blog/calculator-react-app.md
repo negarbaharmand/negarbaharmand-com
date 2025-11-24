@@ -17,7 +17,7 @@ description:
 
 This project is a calculator React app. I used the CSS Grid to lay out the whole calculator. The output box contains two sections, including current-operand (where we are in the act of typing) and previous-operand(the last number and the operation sign).
 
-![App overview](/src/assets/images/calculator.png)
+![App overview](../../assets/images/calculator.png)
 Take a moment to check out this React calculator app on GitHub pages. I invite you to give it a try and experience its functionality firsthand:
 [Calculator](https://negarbaharmand.github.io/react-calculator/)
 
@@ -38,4 +38,4 @@ I created two components to make the buttons: DigitButton and OperationButton, s
 Suppose you are interested in checking out all the logic and conditions behind the operations and trying out the calculator. In that case, feel free to find the code on GitHub from the link below and follow the instructions in the README file to get started.
 [Calculator React App](https://github.com/negarbaharmand/react-calculator.git)
 
-![projects github page](/src/assets/images/calculator-github.png)
+![projects github page](../../assets/images/calculator-github.png)
