@@ -18,6 +18,10 @@ A collection of several technical articles covering:
 **Styling:** [TailwindCSS](https://tailwindcss.com/)  
 **Deployment:** Vercel
 
+## 🌐 Live Demo
+[Negar's Nook](https://negarbaharmand.netlify.app/)
+
+
 ## 📬 Connect
 
 - **Portfolio:** [negarbaharmand.com](https://negarbaharmand.com)
