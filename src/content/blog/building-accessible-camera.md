@@ -3,7 +3,7 @@ author: Negar Baharmand
 pubDatetime: 2026-05-07T09:00:00.000Z
 title: "Building an Accessible Camera Flow in React: Permissions, Failure States, and Clean UX"
 slug: building-accessible-camera-flow-react
-featured: false
+featured: true
 draft: false
 tags:
   - react
