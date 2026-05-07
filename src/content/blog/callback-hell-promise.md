@@ -1,7 +1,7 @@
 ---
 author: Negar Baharmand
 pubDatetime: 2023-02-06T23:00:00.000Z
-title: "TIL Discovering Java's OOP Magic: Abstract and Interface Made Simple"
+title: "TIL Callback Hell and Promise Chaining in JavaScript"
 slug: callback-hell-promise-chaining
 featured: true
 draft: false
