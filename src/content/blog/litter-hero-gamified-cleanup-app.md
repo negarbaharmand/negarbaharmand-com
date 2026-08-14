@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2026-08-14T00:00:00.000Z
+pubDatetime: 2026-08-14T09:34:00.000Z
 title: "Litter Hero: A Gamified App to Make Cities Cleaner"
 slug: litter-hero-gamified-cleanup-app
 featured: true
