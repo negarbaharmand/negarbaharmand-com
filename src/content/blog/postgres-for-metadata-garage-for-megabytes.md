@@ -16,7 +16,7 @@ description: How we wired S3-compatible object storage into Litter Hero without 
 
 When we started building **Litter Hero**, a reporting app where people photograph litter and log cleanup spots, the question of _where do the photos actually live_ came up pretty fast. Stuffing image blobs into Postgres felt wrong. Not just "wrong" in a code-smell way, but wrong in a _your database will hate you in three months_ way. So we needed object storage.
 
-Here's the thing though: we didn't set up a single storage node. The challenge's DevOps team ran Garage on the shared Kubernetes cluster and handed us credentials over Slack. We got a bucket name, an access key, a secret, and a hostname. That was it. Our job was to wire it into the Express backend, and that turned out to be a surprisingly interesting little engineering problem — honestly more than I expected from "here's a bucket and three env vars."
+Here's the thing though: we didn't set up a single storage node. The challenge's DevOps team ran Garage on the shared Kubernetes cluster and handed us credentials over Slack. We got a bucket name, an access key, a secret, and a hostname. That was it. Our job was to wire it into the Express backend, and that turned out to be a surprisingly interesting little engineering problem — hones tly more than I expected from "here's a bucket and three env vars."
 
 ![garage](../../assets/images/garage.png)
 
