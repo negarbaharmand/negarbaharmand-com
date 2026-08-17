@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2026-08-14T09:34:00.000Z
+pubDatetime: 2026-08-14T09:34sl:00.000Z
 title: "Litter Hero: A Gamified App to Make Cities Cleaner"
 slug: litter-hero-gamified-cleanup-app
 featured: true
@@ -21,8 +21,8 @@ description:
 
 ![Litter Hero app map view](../../assets/images/LitterHero/litter-hero.jpg)
 
-When I moved to Sweden, one of the first things that surprised me was how clean the streets were, not because of a cleaning crew working overnight like back home, but because people just did it themselves. That sense of responsibility genuinely impressed me, I never really seen that before.
-So when the idea of building something for the community came up I immediately thought: what if we could use tech to motivate even more people to do that? Something like Pokémon GO, but for picking up trash.
+When I moved to Sweden, I noticed how much everyday cleanliness came from people looking after their own surroundings. That shared sense of responsibility stuck with me.
+So when the idea of building something for the community came up, I immediately thought: what if we could use tech to motivate even more people to do that? Something like Pokémon GO, but for picking up trash.
 That's how Litter Hero was born.
 
 ## TABLE OF CONTENTS
