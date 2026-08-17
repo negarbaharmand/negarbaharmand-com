@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-12-25T23:00:00.000Z
+pubDatetime: 2023-12-25T15:03:00.000Z
 title: "TIL JavaScript Destructuring"
 slug: js-destructuring
 featured: true

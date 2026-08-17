@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-07-09T22:00:00.000Z
+pubDatetime: 2023-07-09T15:41:00.000Z
 title: "TIL Encapsulation: Your Code's Protective Capsule"
 slug: encapsulation
 featured: true

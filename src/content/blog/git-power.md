@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2022-11-27T23:00:00.000Z
+pubDatetime: 2016-02-21T09:47:00.000Z
 title: Why is Git so incredible?
 slug: git-power
 featured: true

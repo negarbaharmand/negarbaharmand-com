@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2022-12-13T23:00:00.000Z
+pubDatetime: 2016-04-14T13:22:00.000Z
 title: How to vertically align two or more elements in a div using flexbox?
 slug: flexbox-vertical-alignment
 featured: true

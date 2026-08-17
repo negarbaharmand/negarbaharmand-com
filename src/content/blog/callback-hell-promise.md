@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-02-06T23:00:00.000Z
+pubDatetime: 2023-02-06T18:52:00.000Z
 title: "TIL Callback Hell and Promise Chaining in JavaScript"
 slug: callback-hell-promise-chaining
 featured: true

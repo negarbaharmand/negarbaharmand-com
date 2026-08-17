@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-07-19T22:00:00.000Z
+pubDatetime: 2023-07-19T15:33:00.000Z
 title: "TIL Discovering Java's OOP Magic: Abstract and Interface Made Simple"
 slug: abstract-and-interface
 featured: true

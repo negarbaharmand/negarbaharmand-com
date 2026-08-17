@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-02-09T23:00:00.000Z
+pubDatetime: 2023-02-09T08:27:00.000Z
 title: Writing more readable promises using async and await
 slug: async-await
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2025-11-18T22:00:00.000Z
+pubDatetime: 2025-11-18T17:09:00.000Z
 title: "Guessy Messy: How We Built a Production-Ready Quiz App as a Team"
 slug: quiz-app
 featured: true

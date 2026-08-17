@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-09-28T22:00:00.000Z
+pubDatetime: 2023-09-28T09:19:00.000Z
 title: Calculator React App
 slug: calculator-react-app
 featured: true

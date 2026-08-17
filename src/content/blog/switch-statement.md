@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-01-14T23:00:00.000Z
+pubDatetime: 2023-01-14T13:18:00.000Z
 title: How to use switch statement in JavaScript and emulate it in Python?
 slug: switch-statement
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-08-16T22:00:00.000Z
+pubDatetime: 2023-08-16T16:47:00.000Z
 title: Custom Exceptions in Java
 slug: custon-exception
 featured: true

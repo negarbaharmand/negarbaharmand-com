@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-08-04T22:00:00.000Z
+pubDatetime: 2023-08-04T10:08:00.000Z
 title: "TIL ArrayList vs. LinkedList in Java: Choosing the Right Tool for the Job"
 slug: arraylist-linkedlist
 featured: true

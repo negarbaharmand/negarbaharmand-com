@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-10-01T22:00:00.000Z
+pubDatetime: 2016-06-19T18:08:00.000Z
 title: Let JS do the work!
 slug: javascript-html
 featured: true

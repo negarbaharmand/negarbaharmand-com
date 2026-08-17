@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-01-22T23:00:00.000Z
+pubDatetime: 2016-09-11T09:35:00.000Z
 title: TIL "this" keyword in JavaScript
 slug: this-keyword
 featured: true

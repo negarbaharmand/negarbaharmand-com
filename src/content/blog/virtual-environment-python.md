@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-10-24T22:00:00.000Z
+pubDatetime: 2023-10-24T17:26:00.000Z
 title: Virtual environment in Python
 slug: virtual-environment-python
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-04-19T22:00:00.000Z
+pubDatetime: 2023-04-19T19:14:00.000Z
 title: What are environment variables in React and how to use them?
 slug: environmental-variable-react
 featured: true

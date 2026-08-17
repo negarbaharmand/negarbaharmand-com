@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-10-24T22:00:00.000Z
+pubDatetime: 2023-10-24T07:12:00.000Z
 title: "TIL Spring Data JPA: Making Database Stuff Easier"
 slug: spring-data-jpa
 featured: true

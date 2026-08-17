@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-09-26T22:00:00.000Z
+pubDatetime: 2023-09-26T18:31:00.000Z
 title: TIL Database Transactions and ACID Principles!
 slug: database-transactions
 featured: true

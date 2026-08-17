@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2026-05-21T16:12:00.000Z
+pubDatetime: 2026-05-21T14:38:00.000Z
 title: "Postgres for Metadata, Garage for Megabytes"
 slug: postgres-for-metadata-garage-for-megabytes
 featured: true

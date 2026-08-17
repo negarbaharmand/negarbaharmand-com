@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2023-07-19T22:00:00.000Z
+pubDatetime: 2023-07-19T08:56:00.000Z
 title: "City Forecast A React Weather App"
 slug: city-forecast
 featured: true
