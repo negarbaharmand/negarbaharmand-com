@@ -1,6 +1,6 @@
 ---
 author: Negar Baharmand
-pubDatetime: 2026-08-20T15:33:00.000Z
+pubDatetime: 2026-08-20T14:22:00.000Z
 title: "Two Bugs, One API, and Why You Should Read Your Render Emails"
 slug: two-bugs-one-api-read-your-render-emails
 featured: true
