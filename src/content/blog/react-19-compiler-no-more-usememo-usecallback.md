@@ -1,7 +1,7 @@
 ---
 author: Negar Baharmand
 pubDatetime: 2025-11-22T16:37:00.000Z
-title: "React 19 Compiler — No More useMemo and useCallback"
+title: "React 19 Compiler - No More useMemo and useCallback"
 slug: react-19-compiler-no-more-usememo-usecallback
 featured: true
 draft: false
@@ -11,7 +11,7 @@ tags:
   - performance
   - compiler
   - javascript
-description: "React Compiler v1.0 landed and it quietly took over the job I was doing badly — deciding what to memoize and when."
+description: "React Compiler v1.0 landed and it quietly took over the job I was doing badly - deciding what to memoize and when."
 ---
 
 I remember the first time I wrapped literally everything in `useMemo` and `useCallback` on a product listing page. I was convinced I was being smart about performance. The component had a filter function, a sort function, a
@@ -86,7 +86,7 @@ component breaks these rules, the compiler skips it rather than producing
 broken output. It fails gracefully, which is a nice design choice.
 
 You can also explicitly opt out of compilation for a specific component with a
-`"use no memo"` directive at the top of the function body — an escape hatch
+`"use no memo"` directive at the top of the function body - an escape hatch
 for when you need full manual control.
 
 ## What Does the Compiled Output Actually Look Like?
