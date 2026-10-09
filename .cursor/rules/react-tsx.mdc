@@ -1,0 +1,29 @@
+---
+description: React/TSX conventions for components in this Astro site
+alwaysApply: false
+---
+# React / TSX Components
+
+These files are islands inside an Astro site. Keep them small and typed.
+
+- Use functional components and named `Props` interfaces. Do not use class components or `any`.
+- Import content types from `astro:content` (e.g. `CollectionEntry<"blog">`) instead of duplicating post shapes.
+- Use existing path aliases (`@utils`, `@config`, `@components`) rather than long relative imports.
+- Style with Tailwind classes already used on the site (`text-skin-accent`, `decoration-dashed`). Do not add a CSS module or styled-components.
+- Prefer composition over new dependencies. This project only uses React where interactivity is needed (cards, search, datetime).
+
+```tsx
+// ❌ BAD
+export default function Card(props: any) {
+  return <div>{props.frontmatter.title}</div>;
+}
+
+// ✅ GOOD
+export interface Props {
+  frontmatter: CollectionEntry<"blog">["data"];
+}
+
+export default function Card({ frontmatter }: Props) {
+  return <h2 className="text-lg font-medium">{frontmatter.title}</h2>;
+}
+```
