@@ -1,7 +1,7 @@
 ---
 author: Negar Baharmand
 pubDatetime: 2025-11-22T16:37:00.000Z
-title: "React 19 Compiler - No More useMemo and useCallback"
+title: "React Compiler v1.0 - No More useMemo and useCallback"
 slug: react-19-compiler-no-more-usememo-usecallback
 featured: true
 draft: false
